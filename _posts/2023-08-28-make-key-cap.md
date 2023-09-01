@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FDM方式の3Dプリンターでkailh choc v1用キーキャップを作った"
-date:   2023-09-02 02:19:14 +0900
+date:   2023-08-28 02:19:14 +0900
 categories: making
 ---
 
@@ -75,7 +75,7 @@ Anycubic社の[Kobra 2](https://www.anycubic.com/products/kobra-2)を買いま�
 
 #### スライサーの設定
 
-![サポート材が詰まっている様子](./img/image-3.png)
+![サポート材が詰まっている様子](/assets/2023-08-28-make-key-cap/img/image-3.png)
 
 - キーキャップの内側が長いブリッジになってしまうのでサポート材をミチミチに付与したものの、サポート材を剥離するのが大変だった
 - 天面はトップインフィルをゆっくり+細く吐出するよう設定するとキレイに仕上がる
@@ -85,7 +85,7 @@ Anycubic社の[Kobra 2](https://www.anycubic.com/products/kobra-2)を買いま�
 ### ステム（ABS製）
 
 #### モデリング
-![ステムプレートの断面図](./img/image-5.png)
+![ステムプレートの断面図](/assets/2023-08-28-make-key-cap/img/image-5.png)
 
 - 薄い割にそこそこ精度を求められるので、印刷時の積層ピッチや、吐出幅を念頭にモデリング
   - 吐出幅 0.4mmなら、* 3 して 1.2mm くらいかな～とか…そんなかんじ…
@@ -93,7 +93,7 @@ Anycubic社の[Kobra 2](https://www.anycubic.com/products/kobra-2)を買いま�
 
 #### スライサーの設定
 
-![保護シールドに覆われているステムたち](./img/image-4.png)
+![保護シールドに覆われているステムたち](/assets/2023-08-28-make-key-cap/img/image-4.png)
 
 ABSという素材は冷却速度が早いと反りやすい・収縮しやすいそうで、それ由来のトラブルに苦しめられました。
 
