@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "FDM方式の3Dプリンターでkailh choc v1用キーキャップを作った"
+date:   2023-09-02 02:19:14 +0900
+categories: making
+---
+
 # FDM方式の3Dプリンターでkailh choc v1用キーキャップを作った
 
 kailh choc v1というキースイッチにはめられるキーキャップが欲しくて作りました。
