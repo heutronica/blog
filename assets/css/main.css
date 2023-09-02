@@ -1,0 +1,65 @@
+--
+--
+
+html {
+    font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
+}
+
+body {
+    width: 80vw;
+    margin: 0 auto;
+    max-width: 720px;
+}
+
+p, span, li {
+    line-height: 1.9rem;
+}
+
+p {
+    margin: 1.5rem 0;
+}
+
+img {
+    width: 100%;
+}
+
+pre, code {
+    color: blue;
+    padding: 0.1rem 0.5rem;
+    border-radius: 2px;
+    border: solid 1px;
+}
+
+li:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+
+li > ul {
+    margin-top: 0.5rem;
+}
+
+nav, footer {
+    padding: 1rem 0;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    border-top: 1px lightgray solid;
+    margin: 2rem 0;
+}
+
+hr.title {
+    width: 25%;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-block-start: 2.25rem;
+    margin-block-end: 2.25rem;
+}
+
+h2 {
+    margin-block-start: 2.25rem;
+    margin-block-end: 2.25rem;
+}

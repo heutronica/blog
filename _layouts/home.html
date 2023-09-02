@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<nav>
+    <a href="https://github.com/heutronica" target="_blank" rel="noopener noreferrer">heutronica</a> / <strong>blog</strong>
+</nav>
+<section>
+    {% for post in site.posts %}
+        <h2>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+    {% endfor %}
+</section>
